@@ -14,7 +14,7 @@ streamlit run app.py
 
 
  ## Building the Docker image
- (Note: Run as administrator on Windows)
+ (Note: Run as administrator on Windows) <br>
  3. Make sure you have installed Docker on your PC (Docker Desktop if it's Windows)
 
  4. Start Docker (You can start Docker engine from Docker Desktop)
@@ -28,7 +28,7 @@ docker build -t Image_name:tag
 
 
 ## Running the container and removing it
-- List the built docker images
+-> List the built docker images
 ``` commandline
 docker images
 ```
@@ -37,7 +37,7 @@ docker images
 ``` commandline
 docker run -p 80:80 Image_ID
 ```
-- List the running containers
+-> List the running containers
 ``` commandline
 sudo docker run -p 80:80 Image_ID
 ```
