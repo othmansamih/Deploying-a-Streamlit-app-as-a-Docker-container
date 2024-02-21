@@ -1,7 +1,7 @@
 # Deployment Process
 ![The deployment process](https://github.com/othmansamih/Deploying-a-Streamlit-app-as-a-Docker-container/blob/main/Images/img.png?raw=true)
 
-## Testing the Streamlit on local
+## Testing the Streamlit app localy
 1. Install the required dependencies on local
 ```comandline
 pip intall -r requirements.txt
