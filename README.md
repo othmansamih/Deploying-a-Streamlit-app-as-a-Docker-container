@@ -1,4 +1,4 @@
-# Deployment Process
+f# Deployment Process
 ![The deployment process](https://github.com/othmansamih/Deploying-a-Streamlit-app-as-a-Docker-container/blob/main/Images/img.png?raw=true)
 
 ## Testing the Streamlit app localy
@@ -63,7 +63,7 @@ docker ps -a
 docker container prune
 ```
 
-## Pushing the Docker image to Docker Hub
+## Push the Docker image to Docker Hub
 12. Sign UP on Ducker Hub
 
 13. Create a repository on Docker Hub
