@@ -45,7 +45,7 @@ sudo docker run -p 80:80 Image_ID
 
 7. This will display the URL to access the Streamlit app (http://0.0.0.0:80). Note that this URL may not work on Windows. So, go to http://localhost/.
 
-8. In a different terminal window, you can check the running containers with:
+8. In a different terminal window, you can check the running containers with
 ``` commandline
 docker ps
 ```
