@@ -14,7 +14,8 @@ streamlit run app.py
 
 
  ## Building the Docker image
- (Note: Run as administrator on Windows) <br>
+ (Note: Run as administrator on Windows)
+ 
  3. Make sure you have installed Docker on your PC (Docker Desktop if it's Windows)
 
  4. Start Docker (You can start Docker engine from Docker Desktop)
